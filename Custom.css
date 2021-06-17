@@ -1,0 +1,163 @@
+.header{
+    border: 2px solid grey;
+    margin: 10px 200px;
+
+   
+}
+.heading{
+    text-indent: 00px;
+    margin: 35px 20px;
+    
+}
+.Ram{
+    border: 2px solid grey;
+    margin: 30px 200px;
+   
+}
+.selectvalue{
+    margin: 6px;
+    padding: 2px 95px;
+    width: 20px 100px;
+}
+input {
+    width: 300px;
+    margin: 20px 100px;
+   
+}
+.z {
+   background-color:aquamarine;
+   color:brown;
+}
+
+ul.k{
+   
+    background-color:darkred;
+    
+}
+ul.a{
+    
+    
+    padding: 2px 40px ;
+    margin: 20px 70px;
+    
+    margin-left: -400px;
+}
+ul.b{
+   
+    padding: 2px 4px ;
+    margin: 20px 70px;
+    margin-left: -400px;
+    
+
+}
+ul.c{
+    padding: 2px 4px ;
+    margin: 20px 70px;
+    margin-left: -400px;
+    
+}
+ul.d{
+    
+    padding: 2px 4px ;
+    margin: 20px 70px;
+    margin-top:-145px ;
+   margin-left: -110px;
+   text-indent: 30px;
+}
+ul.e{
+    margin-top:-0px ;
+    margin-left: -220px;
+    margin-top: -1px;
+    text-indent: 30px;
+   
+}
+   
+
+ul.f{
+    
+    padding: 2px 4px ;
+    margin: 20px 70px;
+    margin-left: -110px;
+    text-indent: 30px;
+    
+}
+ul.g{
+    
+    padding: 2px 4px ;
+    margin: 20px 70px;
+    margin-top: -134px;
+    margin-left: 120px;
+    text-indent: 70px;
+    
+}
+ul.p{
+    
+    padding: 2px 4px ;
+    margin: 20px 70px;
+    margin-top: 1px;
+    margin-left: 120px;
+    text-indent: 70px;
+    
+    
+    
+}
+ul.q{
+    
+    padding: 2px 4px ;
+    margin: 20px 70px;
+    margin-top: 1px;
+    margin-left: 120px;
+    text-indent: 70px;
+   
+    
+    
+    
+}
+ul.r{
+    
+    padding: 2px 4px ;
+    margin: 20px 70px;
+    margin-top: -138px;
+    margin-left: 380px;
+    text-indent: 70px;
+    
+    
+}
+ul.s{
+    
+    padding: 2px 4px ;
+    margin: 20px 70px;
+    margin-top: -1px;
+    margin-left: 380px;
+    text-indent: 70px;
+    
+    
+}
+ul.t{
+    
+    padding: 2px 4px ;
+    margin: 20px 70px;
+    margin-top: -1px;
+    margin-left: 380px;
+    text-indent: 70px;
+    
+    
+}
+ul.re{
+    text-indent: -30px;
+}
+.button{
+    background-color: darkred;
+    color: white;
+}
+
+.hello{
+    background-color: white;
+   margin-left: -1400px;
+   
+}
+.bro{
+    margin: 20px 200px;
+    margin-bottom: 2000px;
+    top: 2000000px;
+}
